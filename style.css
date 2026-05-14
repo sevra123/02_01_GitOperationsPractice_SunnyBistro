@@ -18,3 +18,18 @@ ul {
 li {
   margin-bottom: 10px;
 }
+table {
+  width: 100%;
+  max-width: 500px;
+  border-collapse: collapse;
+  background-color: white;
+}
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+th {
+  background-color: #f2c078;
+}
