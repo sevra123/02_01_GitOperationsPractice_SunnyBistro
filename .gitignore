@@ -1,0 +1,5 @@
+#ignoriraj sve datoteke koje imaju ekstenziju.log
+*.log
+
+#ignoriraj sav sadrzaj unutar /temp foldera
+temp/
